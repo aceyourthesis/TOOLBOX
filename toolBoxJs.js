@@ -17,35 +17,38 @@ document.addEventListener("DOMContentLoaded", () => {
         displayErrorMessage();
       });
   });
+
+  // Function to fetch data from json
   
-  // Function to render products as Bootstrap cards
+  // Function to render products as Bootstrap cards 
+  // description 
   function renderProducts(products) {
-    const productList = document.getElementById("product-list");
-    productList.innerHTML = "";
+    const productListDiv = document.getElementById("product-list");
+    productListDiv.innerHTML = "";
   
     products.forEach(product => {
       const card = document.createElement("div");
-      card.className = "col-md-3";
+      card.className = "col-md-6 col-lg-4 col-xxl-3";
       card.innerHTML = `
-        <div class="card g-3">
+        <div class="card">
           <img src="${product.image}" class="card-img-top img-fit" alt="${product.name}">
           <div class="card-body">
             <h5 class="card-title">${product.name}</h5>
             <p class="card-text ">${product.description}</p>
           </div>
-          <div class="text-center g-3">
-            <a class="btn btn-outline-primary" href="${product.link}" target="_blank" role="button">Go to Shopee</a>
+          <div class="text-center" style="margin:5px;">
+            <a class="btn btn-outline-primary" href="${product.link}" target="_blank" role="button" style="width:100%;">Buy now</a>
           </div>
         </div>
       `;
-      productList.appendChild(card);
+      productListDiv.appendChild(card);
     });
   }
   
   // Function to display an error message if products fail to load
   function displayErrorMessage() {
-    const productList = document.getElementById("product-list");
-    productList.innerHTML = `
+    const productListDiv = document.getElementById("product-list");
+    productListDiv.innerHTML = `
       <div class="col-12">
         <div class="alert alert-danger" role="alert">
           Failed to load products. Please try again later.
