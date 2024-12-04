@@ -9,19 +9,53 @@
   </head>
   <body>
 
-      <div class="container-fluid">
-          <div class="row" style="border: 2px solid black;">
-            <h1>HELLO</h1><!-- Product cards will be dynamically rendered here -->
-          </div>
-          
-          <div class="row" id="product-list">
-            <!-- Product cards will be dynamically rendered here -->
-          </div>
+<div class="container-fluid">
+    <nav class="navbar sticky-top bg-body-primary">
+        <div class="container-fluid">
+          <!--Branding-->
+          <a class="navbar-brand" href="#">
+            <img src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Logo" width="30" height=30" class="d-inline-block align-text-top">
+            Jay Four Javier
+          </a>
 
-          <div class="row" style="border: 2px solid black;">
-            <h1>HELLO</h1><!-- Product cards will be dynamically rendered here -->
+        <!--Hamburger Menu button-->
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+          <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+            <div class="offcanvas-header">
+              <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Jay Four Javier</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+
+            <!--Menu-->
+            <div class="offcanvas-body">
+              <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
+                <!-- Thesis Consultancy and Fabrication-->
+                <li class="nav-item"><a class="nav-link" href="#">Convert Credit to Gcash</a></li>
+                <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">Tools</a></li>
+                    <li><a class="dropdown-item" href="#">Arduino</a></li>
+                    <!--Home Improvement-->
+                    <!--Farm Supply-->
+                    <!--Utility Products--> 
+                  </ul>
+                </li>
+              </ul>
+            </div>
           </div>
-      </div>
+        </div>
+    </nav>
+</div>
+
+
+<div class="container-fluid">      
+    <div class="row" id="product-list">
+      <!-- Product cards will be dynamically rendered here -->
+    </div>
+</div>
 
 </div>
     <script src="toolBoxJs.js"></script>
