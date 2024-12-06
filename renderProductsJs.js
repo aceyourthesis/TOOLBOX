@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
     products.forEach(product => {
       const card = document.createElement("div");
-      card.className = "col-md-6 col-lg-4 col-xxl-3";
+      card.className = "col-md-6 col-lg-4 col-xxl-3 mb-1";
       card.innerHTML = `
         <div class="card">
           <img src="${product.image}" class="card-img-top img-fit" alt="${product.name}">

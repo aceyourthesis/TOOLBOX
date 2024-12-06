@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("questions.json")
+    fetch("creditEncashFaqJson.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch questions.");

@@ -3,121 +3,145 @@
         "image": "products/grinder-ingco.png",
         "name": "Ingco Grinder",
         "description": "High-quality Ingco grinder for industrial use.",
-        "link": "https://s.shopee.ph/6V79V7mZ6n"
+        "link": "https://s.shopee.ph/6V79V7mZ6n",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/weldingMachine-ingco.png",
         "name": "Ingco Welding Machine",
         "description": "Free angle grinder, 220V 320A DC Welding Machine",
-        "link": "https://s.shopee.ph/8UsDslkIRr"
+        "link": "https://s.shopee.ph/8UsDslkIRr",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/cutoff-ingco.png",
         "name": "Ingco Cutoff",
         "description": "2350W, 3800rpm, 220V",
-        "link": "https://s.shopee.ph/3LA7xENzSd"
+        "link": "https://s.shopee.ph/3LA7xENzSd",
+        "brand" : "Ingco"
     }    
     ,
     {
         "image": "products/cutoffDisc-ingco.png",
         "name": "Ingco Cutoff Disc",
         "description": "14-inch",
-        "link": "https://s.shopee.ph/3LA7xENzSd"
+        "link": "https://s.shopee.ph/3LA7xENzSd",
+        "brand" : "Ingco"
     }    
     ,
     {
         "image": "products/jigSaw-ingco.png",
         "name": "Ingco Jig Saw",
         "description": "High-quality Ingco grinder for industrial use.",
-        "link": "https://s.shopee.ph/8pV4TMqOSx"
+        "link": "https://s.shopee.ph/8pV4TMqOSx",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/cordlessDrill-ingco.png",
         "name": "Ingco Cordless Drill",
         "description": "12V Variable Speed, Forward/Reverse",
-        "link": "https://s.shopee.ph/50ILvogtTq"
+        "link": "https://s.shopee.ph/50ILvogtTq",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/steelBrush-ingco.png",
         "name": "Ingco Steel Brush",
         "description": "Steel brush",
-        "link": "https://s.shopee.ph/2qDrLXEYNl"
+        "link": "https://s.shopee.ph/2qDrLXEYNl",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/allenKey-ingco.png",
         "name": "Ingco 9pcs Allen Key Set",
         "description": "Ingco 9pcs Allen Key Set",
-        "link": "https://s.shopee.ph/7fJ76aw2bI"
+        "link": "https://s.shopee.ph/7fJ76aw2bI",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/screwDriverTwin-ingco.png",
         "name": "Ingco 2pcs Screw Driver",
         "description": "Ingco 9pcs Allen Key Set",
-        "link": "https://s.shopee.ph/LWWOrxSV7"
+        "link": "https://s.shopee.ph/LWWOrxSV7",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/weldingGloves-ingco.png",
         "name": "Ingco 2pcs Welding Gloves",
         "description": "Cow Split Leather Welding Gloves",
-        "link": "https://s.shopee.ph/5AbmAI5SmR"
+        "link": "https://s.shopee.ph/5AbmAI5SmR",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/weldingHelmet-ingco.png",
         "name": "Ingco Auto Darkening Welding Helmet",
         "description": "No more flash burn, No more sun burn",
-        "link": "https://s.shopee.ph/AUdIXaeFjD"
+        "link": "https://s.shopee.ph/AUdIXaeFjD",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/miniScrewdriver-ingco.png",
         "name": "Mini Screw driver",
         "description": "Philips Head/Flat Head Interchangeable",
-        "link": "https://s.shopee.ph/2LHapf00xF"
+        "link": "https://s.shopee.ph/2LHapf00xF",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/springClamp-ingco.png",
         "name": "Ingco Spring Clamp",
         "description": "4-inch or 6-inch clamp",
-        "link": "https://s.shopee.ph/AA0SAYoXPi"
+        "link": "https://s.shopee.ph/AA0SAYoXPi",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/fClamp-ingco.png",
         "name": "Ingco F Clamp",
         "description": "Up to 10 inch, Rubber Handle",
-        "link": "https://s.shopee.ph/5VEccLwSkj"
+        "link": "https://s.shopee.ph/5VEccLwSkj",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/weldingMagnet-ingco.png",
         "name": "Ingco Welding Magnet 6 pcs",
         "description": "2 pcs large, 4 pcs small, Angle can be 45 ° / 90 ° / 135 °",
-        "link": "https://s.shopee.ph/703QPjWbD3"
+        "link": "https://s.shopee.ph/703QPjWbD3",
+        "brand" : "Ingco"
     }
     ,
     {
         "image": "products/solderingIron100w-yihua.png",
         "name": "Yihua Soldering Iron 100W",
         "description": "100W 220V",
-        "link": "https://s.shopee.ph/60AtFA9Elk"
+        "link": "https://s.shopee.ph/60AtFA9Elk",
+        "brand" : "Yihua"
     }
     ,
     {
         "image": "products/solderingKit-yihua.png",
         "name": "Yihua Soldering Kit",
         "description": "60W Adjustable Soldering Iron",
-        "link": "https://s.shopee.ph/8zoUoviHLw"
+        "link": "https://s.shopee.ph/8zoUoviHLw",
+        "brand" : "Yihua"
     }
-
+    ,
+    {
+        "image": "products/lr44Battery-energizer.png",
+        "name": "Energizer LR44",
+        "description": "Long-life LR44 battery",
+        "link": "https://s.shopee.ph/tijkQJJl",
+        "brand" : "Energizer"
+    }
 ]
 
 
